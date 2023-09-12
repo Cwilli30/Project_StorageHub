@@ -126,7 +126,7 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 * Team Example Code Repos:
     * https://github.com/Moonsong-Labs
-    * https://github.com/moonbeam-foundation/moonbeam
+    * https://github.com/moonbeam-foundation/moonbeam/tree/master
 
 * Team LinkedIn Profiles:
     * [Alan Sapede](https://www.linkedin.com/in/alansapede/)
@@ -135,96 +135,41 @@ If this is an application for a follow-up grant (the continuation of an earlier,
     * [Chase Williams](https://www.linkedin.com/in/chase-williams-442712b1/)
     * Engineering Team TBD
 
-### Team Code Repos
-
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
-### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
-
-### Google Scholar Profiles (Or other research indexer profile, ex. Researchgate)
-- https://scholar.google.com/citations?user=<person_1>
-- https://scholar.google.com/citations?user=<person_2>
-
-## Development Status :open_book:
-
-If you've already started working on your project or it is part of a larger project, please provide a link and a description of the research here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/docs/RFPs) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation.
-
 ## Development Roadmap :nut_and_bolt:
-
-This section should break the research development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories, including research [here](../docs/Support%20Docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the deliverable we should expect in as much detail as possible_, plus how we can verify that deliverable. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-> :exclamation: If any of your deliverables is based on somebody else's work, make sure you cite it. If your research contains software artifacts in the same situation, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
+* Total Estimated Duration: 2 Months
+    * Milestone #1: 1 Month
+    * Milestone #2: 1 Month
+* Full-Time Equivalent (FTE): 2.5
+* Total Costs: $84,500
 
-### Milestone 1 Example — Literature Review and Data Collection
-
-- **Estimated duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
-
-> :exclamation: **The default deliverables 0a-0e below are mandatory for all milestones**.
+### Milestone #1: Research & Design
+* Estimated duration: 1 Month
+* FTE: 2.5  
+* Costs: $42,250 (USD)
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| **0a.** | Copyright and Licenses | CC0 / CC BY 4.0 / Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation/Tutorial | We will provide both **artifacts documentation** of the deliverables and a basic **tutorial** that explains how a user can (for example) execute the code included or can visualize data or use any artifacts included. |
-| **0c.** | Methodology | Detailed explanation of how the results were achieved and how to reproduce/verify the results. |
-| **0d.** | Infrastructure | We will provide the list of all infrastructure requirements (text editors with proper versions, software packages, data packages, etc) that can be used to verify the deliveries with this milestone. Ideally, we recommend the usage of LaTeX/Overleaf for article production and Docker files for software execution. |
-| **0e.** | Article | We will send an **article** or part of it (with source code) that explains in the English language [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.). For level 2 and 3 grants, the article must contain the following statement in an acknowledgments section:  This work was supported by a research grant from the Web3 Foundation.  |
-| 1. | List of academic papers regarding X | We will systematically search the literature about X and deliver a list of papers to read with web links to them |
-| 2. | Data to be extracted from the papers | Data fields with the explanation of each that will be extracted from the papers ... |
-| 3. | Analysis procedures | We gonna describe all the procedures planned for the analysis that will be conducted in the next milestone ... |
+| **0a.** | Copyright and Licenses | CC BY 4.0 / GPLv3 |
+| **0b.** | Documentation/Tutorial | The first month milestone will be a draft of the design document (v0.5)  detailing the technical approach for developing the protocol.  The document will not be complete, but key sections and design points will be specified to show overall design progress for the project and reflect our initial descriptions above throughout this application |
+| **0c.** | Infrastructure | The first month deliverable is a document so no additional infrastructure will be necessary |
+| **0d.** | Article | The main deliverable for the first month is v0.5 of the design document.  The document will acknowledge that the work was supported by a research grant from the Web3 Foundation |
 
+### Milestone #2: Technical Deliverables
+* Estimated Duration: 1 month
+* FTE: 2.5
+* Costs: $42,250 (USD)
 
-### Milestone 2 Example — Data Analysis
-
-- **Estimated Duration:** 1 month
-- **FTE:**  1,5
-- **Costs:** 8,000 USD
-
-...
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License Type | CC BY 4.0 / GPLv3 |
+| **0b.** | Documentation | We will provide v1.0 of a design document for the StorageHub project as the primary second month milestone.  In addition to this, a basic tutorial that explains how a user can run our prototype code and send test transactions will also be delivered |
+| **0c.** | Testing & Testing Guide | Software developed for this milestone will be prototype quality, and thus will not have the tests required for production deployment.  Prototyping for this project is to validate the feasibility of technical designs proposed in the StorageHub design doc |
+| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to run the prototype associated with this milestone |
+| **0e.** | Prototype Code | We will create a Substrate and or RUST prototype to validate proposed designs described in the v1.0 design doc.  In particular, the approach for the data provider role, and being able to store data in a redundant fashion, and retrieve data from the provider.  The source code for the prototype will be delivered as part of the second month milestone. The prototype will have limited features (e.g. not decentralized, limited API, etc) or might not be complete but will provide sufficient functionalities to demonstrate key parts of the proposed design |
 
 
 ## Future Plans
-
-Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
-## Referral Program (optional) :moneybag: 
-
-You can find more information about the program [here](../README.md#moneybag-referral-program).
-- **Referrer:** Name of the Polkadot Ambassador or GitHub account of the Web3 Foundation grantee
-- **Payment Address:** BTC, Ethereum (USDC/DAI) or Polkadot/Kusama (USDT) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-
-## Additional Information :heavy_plus_sign:
-
-**How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+* We are currently in the process of hiring fulltime resources that will be dedicated to this engineering effort.
+* The intended long term plan is to successfully complete this initial grant to then set us up to apply for a follow on long term grant
