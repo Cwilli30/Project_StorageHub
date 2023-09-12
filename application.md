@@ -136,8 +136,8 @@ If this is an application for a follow-up grant (the continuation of an earlier,
     * Engineering Team TBD
 
 ## Development Roadmap :nut_and_bolt:
-### Overview
 
+### Overview
 * Total Estimated Duration: 2 Months
     * Milestone #1: 1 Month
     * Milestone #2: 1 Month
@@ -168,7 +168,6 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 | **0c.** | Testing & Testing Guide | Software developed for this milestone will be prototype quality, and thus will not have the tests required for production deployment.  Prototyping for this project is to validate the feasibility of technical designs proposed in the StorageHub design doc |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to run the prototype associated with this milestone |
 | **0e.** | Prototype Code | We will create a Substrate and or RUST prototype to validate proposed designs described in the v1.0 design doc.  In particular, the approach for the data provider role, and being able to store data in a redundant fashion, and retrieve data from the provider.  The source code for the prototype will be delivered as part of the second month milestone. The prototype will have limited features (e.g. not decentralized, limited API, etc) or might not be complete but will provide sufficient functionalities to demonstrate key parts of the proposed design |
-
 
 ## Future Plans
 * We are currently in the process of hiring fulltime resources that will be dedicated to this engineering effort.
