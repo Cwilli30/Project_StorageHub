@@ -134,7 +134,7 @@
     * Milestone #1: 1 Month
     * Milestone #2: 1 Month
 * Full-Time Equivalent (FTE): 2.5
-* Total Costs: $84,500
+* Total Costs: $84,500 (USD)
 
 ### Milestone #1: Research & Design
 * Estimated duration: 1 Month
