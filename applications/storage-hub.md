@@ -118,7 +118,7 @@
 
 * Team Example Code Repos:
     * https://github.com/Moonsong-Labs
-    * https://github.com/moonbeam-foundation/moonbeam/tree/master
+    * https://github.com/moonbeam-foundation/moonbeam
 
 * Team LinkedIn Profiles:
     * [Alan Sapede](https://www.linkedin.com/in/alansapede/)
